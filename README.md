@@ -1,6 +1,6 @@
 # react_dva_demo
-涉及技术：
-         react + antdesion + dva
+#涉及技术：
+         react + antdesign + dva
 #主要包括
         table、tree、tabletree
 #使用前需执行运行
