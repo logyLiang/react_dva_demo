@@ -1,12 +1,12 @@
 import React, { PropTypes } from 'react';
 import { connect } from 'dva';
-//import NavComp from '../components/NavComp.js'
+import NavComp from '../components/NavComp.js'
 import styles from '../components/Common.less'
 function App({children, location, dispatch}) {
   return (
     <div className={styles.layout}>
       <div className={styles.main}>
-     { /*<NavComp />*/}
+     <NavComp />
         <div className={styles.container}>
           <div className={styles.content}>
             {children}
