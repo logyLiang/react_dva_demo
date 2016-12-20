@@ -1,4 +1,4 @@
 # react_dva_demo
-自用学习11
-11
-212121
+使用前需执行
+npm install
+npm run dev
