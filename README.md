@@ -14,6 +14,7 @@
 ## 使用前需执行运行:
   
   npm install
+  
   npm run dev
 
 ## 访问地址:
