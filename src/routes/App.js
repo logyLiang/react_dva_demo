@@ -14,7 +14,7 @@ function App({children, location, dispatch}) {
         </div>
       </div>
     </div>
-  );
+  ); 
 }
 //数据类型只定义在page页与页面渲染组件，不存在model层及其其他模块定义
 App.propTypes = {
